@@ -19,5 +19,4 @@ int main() {
     printf("The Number of Students: %d\n", nos);
     printf("The Average Marks are: %.2f\n", avg);
     
-    return 0; 
-}
+    return 0; }
